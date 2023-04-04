@@ -1,0 +1,8 @@
+C:\Users\hakan\source\repos\InterfaceAbstractDemo3\InterfaceAbstractDemo3\bin\Debug\InterfaceAbstractDemo3.exe.config
+C:\Users\hakan\source\repos\InterfaceAbstractDemo3\InterfaceAbstractDemo3\bin\Debug\InterfaceAbstractDemo3.exe
+C:\Users\hakan\source\repos\InterfaceAbstractDemo3\InterfaceAbstractDemo3\bin\Debug\InterfaceAbstractDemo3.pdb
+C:\Users\hakan\source\repos\InterfaceAbstractDemo3\InterfaceAbstractDemo3\obj\Debug\InterfaceAbstractDemo3.csproj.AssemblyReference.cache
+C:\Users\hakan\source\repos\InterfaceAbstractDemo3\InterfaceAbstractDemo3\obj\Debug\InterfaceAbstractDemo3.csproj.SuggestedBindingRedirects.cache
+C:\Users\hakan\source\repos\InterfaceAbstractDemo3\InterfaceAbstractDemo3\obj\Debug\InterfaceAbstractDemo3.csproj.CoreCompileInputs.cache
+C:\Users\hakan\source\repos\InterfaceAbstractDemo3\InterfaceAbstractDemo3\obj\Debug\InterfaceAbstractDemo3.exe
+C:\Users\hakan\source\repos\InterfaceAbstractDemo3\InterfaceAbstractDemo3\obj\Debug\InterfaceAbstractDemo3.pdb
